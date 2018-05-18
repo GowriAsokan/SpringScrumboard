@@ -1,0 +1,25 @@
+
+.header {
+    background: #026aa7;
+    overflow: hidden;
+    padding: 5px;
+    z-index: 10;
+}
+img
+{
+  float: left;
+  margin-top:0px;
+  margin-bottom:0px;
+}
+
+.move-left1,.move-left2,.move-left3,.move-right1,.move-right2,.move-right3
+{
+  margin-top: 100px;
+  margin-bottom:65px;
+}
+.boot2
+{
+	align:bottom-left;
+	color:red;
+	size:40px;
+}

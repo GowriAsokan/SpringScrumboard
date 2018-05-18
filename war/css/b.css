@@ -1,0 +1,32 @@
+h1{
+color:black;
+font-style: bold;
+}
+
+h2
+{
+color:blue;
+font-style: bold;
+font-size: 30px;
+}
+body{
+	
+	 background-position: center;
+	 background-repeat:no-repeat;
+	 
+background-size:900px;
+}
+img{
+	opacity:0.3;
+	height: 100%;
+	width:100%;
+	left: 0px;
+	top: 0px;
+	zindex: -1;
+	}
+	.button
+	{
+		color:red;
+padding:14px 32px;
+	font-size:18px;
+	}

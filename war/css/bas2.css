@@ -1,0 +1,56 @@
+body{
+  background: #303030;
+}
+a{color:red;}
+#table {
+	margin: 100px auto;
+	text-align: center;
+	width: 892px; /* total computed width = 222 x 3 + 226 */
+}
+
+#table .plan {
+	font: 12px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
+	text-shadow: 0 1px rgba(255,255,255,.8);        
+	background: #fff;      
+	border: 1px solid #ddd;
+	color: #333;
+	padding: 20px;
+	width: 180px; /* plan width = 180 + 20 + 20 + 1 + 1 = 222px */      
+	float: left;
+	position: relative;
+}
+h3
+{
+	color:white;
+	size:35px;
+}
+ #table h3 span { 
+	display: block;
+	font: bold 25px/100px Georgia, Serif;
+	color: #777;
+	background: #fff;
+	border: 5px solid #fff;
+	height: 100px;
+	width: 100px;
+	margin: 10px auto -65px;
+	
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+		-webkit-box-shadow: 0 5px 20px ;
+	box-shadow: 0 5px 20px ;
+}
+
+
+	
+#table .scrumboard {
+	position: relative;
+	padding: 8px 20px;
+	margin: 20px 0 0 0;  
+	color: #fff;
+	font: bold 14px Arial, Helvetica;
+	text-transform: uppercase;
+	text-decoration: none;
+	display: inline-block;       
+	background-color: #72ce3f;
+	
+  }
